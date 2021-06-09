@@ -22,6 +22,12 @@ body.debug .row div {
     border: 6px double #aeabab;
     width: 70%;
 }
+
+.img-user-clone {
+    border: 6px double #aeabab;
+    width: 70%;
+}
+
 .text-bold{
   font-weight: bold;
 }
