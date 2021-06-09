@@ -43,7 +43,7 @@ body.debug .row div {
   }
 }
 /*Big devices*/
-@media (min-width: 768px){
+@media (min-width: 767px){
   .hide-in-very-small{
     display: block;
   }
